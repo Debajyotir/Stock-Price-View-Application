@@ -75,7 +75,7 @@ http://localhost:5000/find/history/500002/10
 ```
 or
 ```
-baseUrl/find/history/512565/10
+baseUrl/find/history/500002/10
 ```
 
 #### Task 4: POST Route to Add a Stock to Favorites
